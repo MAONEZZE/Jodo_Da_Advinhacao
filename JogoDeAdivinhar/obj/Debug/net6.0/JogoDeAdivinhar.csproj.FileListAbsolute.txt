@@ -13,3 +13,11 @@ C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\JogoDeAdivinhar\obj\Debug\n
 C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.pdb
 C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.genruntimeconfig.cache
 C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Robo\JogoDeAdivinhar\obj\Debug\net6.0\ref\JogoDeAdivinhar.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\refint\JogoDeAdivinhar.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\Jodo_Da_Advinhacao\JogoDeAdivinhar\obj\Debug\net6.0\JogoDeAdivinhar.pdb

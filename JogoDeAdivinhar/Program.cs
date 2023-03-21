@@ -40,6 +40,16 @@
                         numChutado = Convert.ToInt32(Console.ReadLine());
 
                         Console.WriteLine();
+                        if (numChutado > numAleatorio)
+                        {
+                            Console.WriteLine("O numero chutado está acima do número secreto");
+                        }
+                        else
+                        {
+                            Console.WriteLine("O numero chutado está abaixo do número secreto");
+                        }
+
+                        Console.WriteLine();
                         pontuacao = pontuacao - Math.Abs((numChutado - numeroAdivinhar)) / 2;
                         Console.WriteLine("Você fez " + pontuacao);
 
@@ -67,6 +77,16 @@
                         Console.WriteLine("--------------------------------");
                         Console.Write("Digite um numero para tentar adivinhar o numero: ");
                         numChutado = Convert.ToInt32(Console.ReadLine());
+
+                        Console.WriteLine();
+                        if (numChutado > numAleatorio)
+                        {
+                            Console.WriteLine("O numero chutado está acima do número secreto");
+                        }
+                        else
+                        {
+                            Console.WriteLine("O numero chutado está abaixo do número secreto");
+                        }
 
                         Console.WriteLine();
                         pontuacao = pontuacao - Math.Abs((numChutado - numeroAdivinhar)) / 2;
@@ -98,6 +118,16 @@
                         numChutado = Convert.ToInt32(Console.ReadLine());
 
                         Console.WriteLine();
+                        if (numChutado > numAleatorio)
+                        {
+                            Console.WriteLine("O numero chutado está acima do número secreto");
+                        }
+                        else
+                        {
+                            Console.WriteLine("O numero chutado está abaixo do número secreto");
+                        }
+
+                        Console.WriteLine();
                         pontuacao = pontuacao - Math.Abs((numChutado - numeroAdivinhar)) / 2;
                         Console.WriteLine("Você fez " + pontuacao);
 
@@ -117,6 +147,8 @@
 
                     break;
             }
+
+            Console.ReadLine();
         }
     }
 }
